@@ -10,20 +10,35 @@ Mastering the FreeRTOS Real Time Kernel - Richard Barry
 DIGITAL ELECTRONICS -
 Verilog HDL - Samir Palnitkar
 Fundamentals of Digital Circuits - A. Anand Kumar
+Fundamentals of Digigital Logic with Verilog Design - Stephen Brown
 
-ENGINEERING -
+ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
+Pulse and Digital Circuits - A. Anand Kumar
 Network Analysis and Synthesis - Ravish R. Singh
+The Analysis and Design of Linear Circuits - Roland E. Thomas
 Electronic Devices and Circuits - Robert L. Boylestad
+Electronic Devices and Circuits - Jacob Millman
+Electronic Circuit Analysis - K. Lal Kishore
 Microelectronics Circuit Analysis and Design - Donald A. Neamen
 Op-Amps and Linear ICs - Ramakant A. Gayakwad
+Opamps and Linear ICs - Robert F. Coughlin
+Design with Opamps and Analog ICs - Sergio Franco
 Analog Filter Design - Rolf Schaumann
-Control Systems Engineering - I.J. Nagrath
+
+DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
+Linear Systems and Signals - B.P. Lathi
+Essentials of Digital Signal Processing - B.P. Lathi
+Signals and Systems - P. Ramakrishna Rao
 Applied Digital Signal Processing - Dimitris G. Manolakis
+
+COMMUNICATION -
 Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
+Modern Digital and Analog Communication Systems - B.P. Lathi
+Communication Systems - P. Ramakrishna Rao
 
 MATHEMATICS & PHYSICS -
 Fundamentals of Mathematics - Sanjay Mishra
