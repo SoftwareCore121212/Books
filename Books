@@ -1,9 +1,15 @@
 MICROCONTROLLERS -
 C in Depth - S.K. Srivastava
-Getting Started with MATLAB - Rudra Pratap
+Data Structures Using C - Reema Thareja
 The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi
+The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi
 Arduino Uno R3 - Internet
-STM32F103(Arduino) - Internet
+The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi
+Mastering The FreeRTOS Real Time Kernel - Richard Barry
+
+DIGITAL ELECTRONICS -
+Verilog HDL - Samir Palnitkar
+Fundamentals of Digital Circuits - A. Anand Kumar
 
 ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
@@ -28,6 +34,7 @@ Control Systems Principles and Design - M. Gopal
 Digital Control and State Variable Methods - M. Gopal
 
 DIGITAL SIGNAL PROCESSING -
+Getting Started with MATLAB - Rudra Pratap
 Signals and Systems - Tarun Kumar Rawat
 Digital Signal Processing - Tarun Kumar Rawat
 Linear Systems and Signals - B.P. Lathi
