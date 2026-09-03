@@ -7,12 +7,6 @@ Arduino Uno R3 - Internet
 The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi
 Mastering The FreeRTOS Real Time Kernel - Richard Barry
 
-ANDROID -
-Kotlin in Depth - Aleksei Sedunov
-Head First Android - Dawn Griffiths
-Jetpack Compose - Denis Buketa
-Android Apprentice - The Raywenderlich Team
-
 DIGITAL ELECTRONICS -
 Verilog HDL - Samir Palnitkar
 Fundamentals of Digital Circuits - A. Anand Kumar
@@ -21,17 +15,20 @@ ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
 Pulse and Digital Circuits - A. Anand Kumar
 Network Analysis and Synthesis - Ravish R. Singh
+The Analysis and Design of Linear Circuits - Roland E. Thomas
 Electronic Devices and Circuits - Robert L. Boylestad
 Electronic Devices and Circuits - Jacob Millman
 Electronic Circuit Analysis - K. Lal Kishore
 Microelectronics Circuit Analysis and Design - Donald A. Neamen
 Op-Amps and Linear ICs - Ramakant A. Gayakwad
 Opamps and Linear ICs - Robert F. Coughlin
+Design with Opamps and Analog ICs - Sergio Franci
 Analog Filter Design - Rolf Schaumann
 
 CONTROL SYSTEMS -
 Control Systems Engineering - I.J. Nagrath
 Control Systems Principles and Design - M. Gopal
+Modern Control Systems - Richard C. Dorf
 
 DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
@@ -41,11 +38,13 @@ Linear Systems and Signals - B.P. Lathi
 Essentials of Digital Signal Processing - B.P. Lathi
 Signals and Systems - P. Ramakrishna Rao
 Applied Digital Signal Processing - Dimitris G. Manolakis
+Digital Signal Processing - Thomas Holton
 
 COMMUNICATION -
 Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
 Modern Digital and Analog Communication Systems - B.P. Lathi
 Communication Systems - P. Ramakrishna Rao
+Electronic Communications Systems - Wayne Tomasi
 
 MATHEMATICS -
 Fundamentals of Mathematics - Sanjay Mishra
