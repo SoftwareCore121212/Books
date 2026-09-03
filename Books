@@ -1,15 +1,9 @@
 MICROCONTROLLERS -
 C in Depth - S.K. Srivastava
-Data Structures Using C - Reema Thareja
+Getting Started with MATLAB - Rudra Pratap
 The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi
-The AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi
 Arduino Uno R3 - Internet
-The STM32F103 ARM Microcontroller and Embedded Systems - Muhammad Ali Mazidi
-Mastering The FreeRTOS Real Time Kernel - Richard Barry
-
-DIGITAL ELECTRONICS -
-Verilog HDL - Samir Palnitkar
-Fundamentals of Digital Circuits - A. Anand Kumar
+STM32F103(Arduino) - Internet
 
 ELECTRONICS -
 Introductory Circuit Analysis - Robert L. Boylestad
@@ -28,8 +22,10 @@ Analog Filter Design - Rolf Schaumann
 CONTROL SYSTEMS -
 Control Systems Engineering - Norman S. Nise
 Modern Control Systems - Richard C. Dorf
+Control Systems Engineering - S. Salivahanan
 Control Systems Engineering - I.J. Nagrath
 Control Systems Principles and Design - M. Gopal
+Digital Control and State Variable Methods - M. Gopal
 
 DIGITAL SIGNAL PROCESSING -
 Getting Started with MATLAB - Rudra Pratap
@@ -39,13 +35,20 @@ Linear Systems and Signals - B.P. Lathi
 Essentials of Digital Signal Processing - B.P. Lathi
 Signals and Systems - P. Ramakrishna Rao
 Applied Digital Signal Processing - Dimitris G. Manolakis
+Digital Signal Processing Using MATLAB - Vinay K. Ingle
+Signals and Systems - Simon Haykin
 Digital Signal Processing - Thomas Holton
+Digital Signal Processing - John G. Proakis
 
 COMMUNICATION -
+Electronic Communication Systems - Louis E. Frenzel Jr.
 Electronic Communications Systems - Wayne Tomasi
 Communication Systems (Analog and Digital) - Dr. Sanjay Sharma
 Modern Digital and Analog Communication Systems - B.P. Lathi
 Communication Systems - P. Ramakrishna Rao
+Communication Systems - Simon Haykin
+Digital Communications - Simon Haykin
+Digital Communication Systems - Simon Haykin
 
 MATHEMATICS -
 Fundamentals of Mathematics - Sanjay Mishra
